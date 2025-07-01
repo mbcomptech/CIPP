@@ -84,7 +84,9 @@
         "admin",
         "editor",
         "readonly",
-        "authenticated"
+        "authenticated",
+        "anonymous",
+        "superadmin"
       ]
     }
   ],
