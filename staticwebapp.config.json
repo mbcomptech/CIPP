@@ -63,7 +63,8 @@
         "editor",
         "readonly",
         "authenticated",
-        "anonymous"
+        "anonymous",
+        "superadmin"
       ]
     },
     {
